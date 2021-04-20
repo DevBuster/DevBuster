@@ -9,4 +9,3 @@
 2. [Youtube - DevBuster](https://www.youtube.com/channel/UCGFjaXQPRv5pPjqrSrgbc5A)
 3. [Twitch](https://www.twitch.tv/devbuster)
 4. [LinkedIn](www.linkedin.com/in/devbuster)
-5. DevBuster@outlook.com
